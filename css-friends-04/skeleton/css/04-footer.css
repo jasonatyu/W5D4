@@ -1,0 +1,28 @@
+/* PHASE 4: Footer */
+
+footer {
+    background-color: white; 
+    min-height: 56px;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    color: #AAAAAA;
+    font-size: 14px;
+}
+
+.footer-nav {
+    display: flex;
+}
+
+.copyright {
+    padding: 20px;
+}
+
+.footer-nav li {
+    padding: 20px;
+}
+
+.footer-nav a:hover {
+    color: black
+}
